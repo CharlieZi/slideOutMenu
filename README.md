@@ -6,7 +6,7 @@ A swift Example of slide-out-menu,
 
 certain steps could be check in the [youtube vedio clip](https://www.youtube.com/watch?v=8EFfPT3UeWs)
 
-for rookie in swift-coding like me !
+for rookies in swift-coding like me !
 
 ## future plan
 
